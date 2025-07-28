@@ -1,7 +1,4 @@
-## Hi there 👋
 # Hi there, I'm Shelby! 👋
-
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
